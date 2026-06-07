@@ -1,0 +1,1002 @@
+		
+Từ tiếng Trung	Phiên âm	Nghĩa tiếng Việt
+啊	/ā/	À, ừ (biểu thị cảm thán)
+爱情	/àiqíng/	Tình yêu
+爱心	/àixīn/	Lòng từ bi, sự quan tâm
+安检	/ānjiǎn/	Kiểm tra an ninh
+安排	/ānpái/	Sắp xếp, bố trí
+按	/àn/	Nhấn, đẩy; theo
+按时	/ànshí/	Đúng giờ, đúng hạn
+按照	/ànzhào/	Theo, dựa theo
+白酒	/báijiǔ/	Rượu trắng (rượu mạnh)
+办公	/bàngōng/	Làm việc văn phòng, xử lý công việc
+办理	/bànlǐ/	Làm, giải quyết (thủ tục)
+办事	/bànshì/	Xử lý công việc, lo việc
+棒	/bàng/	Tuyệt vời, giỏi; cái gậy, cái que
+保护	/bǎohù/	Bảo vệ
+保证	/bǎozhèng/	Đảm bảo, cam kết; sự đảm bảo
+抱	/bào/	Ôm, bế
+报考	/bàokǎo/	Đăng ký thi
+报名	/bàomíng/	Đăng ký tham gia
+抱歉	/bàoqiàn/	Xin lỗi, lấy làm tiếc
+背	/bēi/	Vác, đeo trên lưng
+背包	/bēibāo/	Ba lô, balo
+北部	/běibù/	Phần phía Bắc
+倍	/bèi/	Lần (gấp bội)
+本科	/běnkē/	Chương trình đại học (cử nhân)
+本来	/běnlái/	Nguyên bản, ban đầu; thực ra, vốn dĩ
+笨	/bèn/	Ngốc, ngu ngốc
+鼻子	/bízi/	Mũi
+笔试	/bǐshì/	Thi viết, làm bài kiểm tra viết
+毕业	/bìyè/	Tốt nghiệp
+毕业生	/bìyèshēng/	Sinh viên tốt nghiệp
+便于	/biànyú/	Tiện cho, dễ dàng
+标准	/biāozhǔn/	Tiêu chuẩn; chuẩn, điển hình
+表	/biǎo/	Đồng hồ, bảng biểu; biểu lộ
+表格	/biǎogé/	Bảng biểu, form
+表示	/biǎoshì/	Biểu thị, thể hiện
+表现	/biǎoxiàn/	Thể hiện, biểu hiện
+表扬	/biǎoyáng/	Khen ngợi
+饼干	/bǐnggān/	Bánh quy, bánh bích quy
+并	/bìng/	Kết hợp; thực sự; và, cũng
+并且	/bìngqiě/	Và, hơn nữa
+播放	/bōfàng/	Phát sóng, phát lại
+博士	/bóshì/	Tiến sĩ
+不必	/búbì/	Không cần, không phải
+不便	/búbiàn/	Bất tiện; thiếu tiền
+不断	/búduàn/	Không ngừng; liên tục
+不够	/búgòu/	Không đủ; không đủ mức
+不过	/búguò/	Nhưng, tuy nhiên; chỉ, mà thôi
+不论	/búlùn/	Dù, bất kể
+步	/bù/	Bước chân, bước tiến
+部	/bù/	Bộ phận, bộ; (đơn vị cho sách, máy móc)
+不得不	/bùdébù/	Phải, không thể không
+部分	/bùfen/	Phần, bộ phận
+不管	/bùguǎn/	Dù, bất kể
+不光	/bùguāng/	Không chỉ; không chỉ… mà còn
+不仅	/bùjǐn/	Không chỉ
+不满	/bùmǎn/	Không hài lòng
+部门	/bùmén/	Bộ phận, ban ngành
+不如	/bùrú/	Không bằng, kém hơn
+擦	/cā/	Lau, chùi
+猜	/cāi/	Đoán
+材料	/cáiliào/	Tài liệu, vật liệu
+参观	/cānguān/	Thăm quan
+参赛	/cānsài/	Tham gia thi đấu
+餐厅	/cāntīng/	Nhà hàng, căng tin
+操场	/cāochǎng/	Sân thể thao
+厕所	/cèsuǒ/	Nhà vệ sinh
+查看	/chákàn/	Kiểm tra, xem
+茶叶	/cháyè/	Lá trà
+查找	/cházhǎo/	Tìm kiếm
+差点儿	/chàdiǎnr/	Kém, không tốt lắm; suýt nữa
+产生	/chǎnshēng/	Sinh ra, tạo ra
+厂	/chǎng/	Nhà máy
+场	/chǎng/	(đơn vị cho sự kiện, buổi biểu diễn)
+超过	/chāoguò/	Vượt quá
+车速	/chēsù/	Tốc độ xe
+车位	/chēwèi/	Chỗ đỗ xe
+城	/chéng/	Thành phố
+乘	/chéng/	Đi (xe), nhân
+成功	/chénggōng/	Thành công; thành công
+乘客	/chéngkè/	Hành khách
+诚实	/chéngshí/	Trung thực
+成为	/chéngwéi/	Trở thành
+乘坐	/chéngzuò/	Đi (phương tiện)
+吃惊	/chījīng/	Ngạc nhiên, giật mình
+迟	/chí/	Muộn, chậm trễ
+重	/chóng/	Lại, lần nữa; lặp lại
+重新	/chóngxīn/	Lại, từ đầu
+出差	/chūchāi/	Công tác
+出口	/chūkǒu/	Lối ra; xuất khẩu
+出现	/chūxiàn/	Xuất hiện
+出行	/chūxíng/	Đi ra ngoài, di chuyển
+出租	/chūzū/	Cho thuê
+厨房	/chúfáng/	Nhà bếp
+厨师	/chúshī/	Đầu bếp
+窗	/chuāng/	Cửa sổ
+窗户	/chuānghu/	Cửa sổ
+吹	/chuī/	Thổi
+词语	/cíyǔ/	Từ ngữ
+此	/cǐ/	Này, cái này
+此次	/cǐcì/	Lần này
+此外	/cǐwài/	Ngoài ra, hơn nữa
+从此	/cóngcǐ/	Từ nay về sau
+从来	/cónglái/	Từ trước đến nay, chưa từng
+从中	/cóngzhōng/	Trong đó
+粗	/cū/	Thô, to
+粗心	/cūxīn/	Cẩu thả
+村	/cūn/	Làng
+存	/cún/	Lưu trữ, tồn tại
+错过	/cuòguò/	Bỏ lỡ
+错误	/cuòwù/	Sai; lỗi
+答应	/dāying/	Đồng ý, hứa
+答	/dá/	Trả lời
+答案	/dá’àn/	Câu trả lời, đáp án
+达到	/dádào/	Đạt được
+打招呼	/dǎ zhāohu/	Chào hỏi
+打败	/dǎbài/	Đánh bại
+打工	/dǎgōng/	Làm việc tạm thời
+打扰	/dǎrǎo/	Làm phiền
+打印	/dǎyìn/	In ấn
+打印机	/dǎyìnjī/	Máy in
+打折	/dǎzhé/	Giảm giá
+打针	/dǎzhēn/	Tiêm thuốc
+大巴	/dàbā/	Xe buýt lớn
+大大	/dàdà/	Rất nhiều, đáng kể
+大夫	/dàifu/	Bác sĩ
+大量	/dàliàng/	Lượng lớn
+大赛	/dàsài/	Cuộc thi lớn
+大厅	/dàtīng/	Sảnh lớn
+大约	/dàyuē/	Khoảng chừng
+大自然	/dàzìrán/	Thiên nhiên
+待	/dāi/	Ở lại
+戴	/dài/	Đeo, đội
+袋子	/dàizi/	Túi
+单位	/dānwèi/	Đơn vị, cơ quan
+当	/dāng/	Làm, đảm nhận; khi
+当时	/dāngshí/	Lúc đó
+刀	/dāo/	Dao
+导游	/dǎoyóu/	Hướng dẫn viên du lịch; hướng dẫn du lịch
+倒	/dào/	Đổ, ngã; ngược lại
+道	/dào/	Đường, cách; (cho vật dài)
+到底	/dàodǐ/	Rốt cuộc, cuối cùng
+到来	/dàolái/	Đến, tới
+道路	/dàolù/	Đường sá
+道歉	/dàoqiàn/	Xin lỗi
+得意	/déyì/	Tự mãn, đắc ý
+登机	/dēngjī/	Lên máy bay
+等	/děng/	Và v.v.; cấp bậc; (đơn vị)
+等到	/děngdào/	Cho đến khi
+低	/dī/	Thấp; hạ thấp
+低价	/dījià/	Giá thấp
+低温	/dīwēn/	Nhiệt độ thấp
+低于	/dīyú/	Thấp hơn
+底	/dǐ/	Đáy, nền
+底下	/dǐxia/	Bên dưới
+地球	/dìqiú/	Trái đất
+地址	/dìzhǐ/	Địa chỉ
+点名	/diǎnmíng/	Điểm danh
+点头	/diǎntóu/	Gật đầu
+电动车	/diàndòngchē/	Xe điện
+电视剧	/diànshìjù/	Phim truyền hình
+掉	/diào/	Rơi, rơi xuống
+调查	/diàochá/	Điều tra
+订	/dìng/	Đặt, đặt trước
+定	/dìng/	Xác định, ấn định
+东部	/dōngbù/	Phần phía Đông
+动车	/dòngchē/	Tàu cao tốc
+动作	/dòngzuò/	Động tác, hành động
+读者	/dúzhě/	Người đọc
+堵车	/dǔchē/	Kẹt xe
+度假	/dùjià/	Nghỉ dưỡng
+肚子	/dùzi/	Bụng
+短信	/duǎnxìn/	Tin nhắn
+队	/duì/	Đội; (cho đội nhóm)
+对方	/duìfāng/	Bên kia, đối phương
+对面	/duìmiàn/	Phía đối diện
+对于	/duìyú/	Đối với
+队员	/duìyuán/	Thành viên đội
+队长	/duìzhǎng/	Đội trưởng
+顿	/dùn/	(cho bữa ăn); dừng lại
+多么	/duōme/	Biết bao, thật là
+多数	/duōshù/	Đa số
+多样	/duōyàng/	Đa dạng
+而	/ér/	Nhưng, mà
+儿童	/értóng/	Trẻ em
+发出	/fāchū/	Phát ra
+发送	/fāsòng/	Gửi
+法	/fǎ/	Pháp luật
+法律	/fǎlǜ/	Luật pháp
+翻译	/fānyì/	Dịch; bản dịch
+烦	/fán/	Phiền, bực; làm phiền
+烦恼	/fánnǎo/	Lo lắng, phiền não
+反对	/fǎnduì/	Phản đối
+方面	/fāngmiàn/	Phương diện, mặt
+方式	/fāngshì/	Cách thức
+房东	/fángdōng/	Chủ nhà
+房租	/fángzū/	Tiền thuê nhà
+放弃	/fàngqì/	Bỏ cuộc
+放松	/fàngsōng/	Thư giãn
+费	/fèi/	Phí; tiêu tốn
+费用	/fèiyong/	Chi phí
+分数	/fēnshù/	Điểm số, điểm thi, phân số
+分为	/fēnwéi/	Được chia thành
+份	/fèn/	Bản, phần (dùng cho bản sao, phần chia)
+丰富	/fēngfù/	Phong phú, dồi dào
+风景	/fēngjǐng/	Phong cảnh, cảnh quan
+否则	/fǒuzé/	Nếu không thì, bằng không
+幅	/fú/	Tấm, bức (dùng cho tranh, ảnh)
+符合	/fúhé/	Phù hợp, đúng với
+付	/fù/	Trả tiền
+父母	/fùmǔ/	Cha mẹ
+父女	/fùnǚ/	Cha và con gái
+父亲	/fùqīn/	Cha
+复印	/fùyìn/	Photocopy, sao chép
+复杂	/fùzá/	Phức tạp, phức
+负责	/fùzé/	Chịu trách nhiệm; có trách nhiệm
+负责人	/fùzérén/	Người phụ trách
+父子	/fùzǐ/	Cha và con trai
+改	/gǎi/	Sửa, thay đổi
+改变	/gǎibiàn/	Thay đổi
+干	/gān/	Khô; đồ khô
+干杯	/gānbēi/	Cạn ly, cheers
+赶	/gǎn/	Vội vã, đuổi kịp
+敢	/gǎn/	Dám
+感	/gǎn/	Cảm giác, cảm (dùng sau từ)
+感动	/gǎndòng/	Cảm động; làm cảm động
+赶紧	/gǎnjǐn/	Nhanh chóng, lập tức
+感觉	/gǎnjué/	Cảm giác; cảm thấy
+赶快	/gǎnkuài/	Nhanh lên, mau mau
+感情	/gǎnqíng/	Tình cảm, cảm xúc
+感人	/gǎnrén/	Cảm động, xúc động
+赶上	/gǎnshàng/	Đuổi kịp, bắt kịp
+感受	/gǎnshòu/	Cảm nhận; trải nghiệm
+感谢	/gǎnxiè/	Cảm ơn
+干活儿	/gànhuór/	Làm việc
+钢琴	/gāngqín/	Đàn piano
+高价	/gāojià/	Giá cao
+高考	/gāokǎo/	Kỳ thi đại học (Gaokao)
+高速	/gāosù/	Tốc độ cao
+高温	/gāowēn/	Nhiệt độ cao
+高于	/gāoyú/	Cao hơn
+胳膊	/gēbo/	Cánh tay
+歌声	/gēshēng/	Tiếng hát
+歌手	/gēshǒu/	Ca sĩ
+各	/gè/	Mỗi, từng; lần lượt
+各地	/gèdì/	Khắp nơi, các nơi
+各个	/gègè/	Từng cái, mỗi; từng người một
+各位	/gèwèi/	Mọi người (lịch sự)
+各种	/gèzhǒng/	Các loại, đủ loại
+更加	/gèngjiā/	Càng, càng thêm
+工厂	/gōngchǎng/	Nhà máy
+功夫	/gōngfu/	Kungfu, kỹ năng, công phu
+公共	/gōnggòng/	Công cộng
+功课	/gōngkè/	Bài tập, bài vở
+公里	/gōnglǐ/	Kilômét
+公路	/gōnglù/	Đường cao tốc, đường bộ
+工人	/gōngrén/	Công nhân
+工资	/gōngzī/	Lương, tiền lương
+共	/gòng/	Cùng, tổng cộng
+共同	/gòngtóng/	Chung, cùng
+够	/gòu/	Đủ; đủ mức
+购买	/gòumǎi/	Mua sắm
+购物	/gòuwù/	Mua sắm
+估计	/gūjì/	Ước tính, đoán
+姑娘	/gūniang/	Cô gái
+鼓励	/gǔlì/	Khuyến khích
+顾客	/gùkè/	Khách hàng
+故意	/gùyì/	Cố ý, cố tình
+挂	/guà/	Treo, móc
+关键	/guānjiàn/	Chìa khóa, mấu chốt; quan trọng
+观看	/guānkàn/	Xem, quan sát
+观众	/guānzhòng/	Khán giả
+管	/guǎn/	Quản lý, quan tâm; ống; (đơn vị cho ống)
+管理	/guǎnlǐ/	Quản lý
+光	/guāng/	Ánh sáng; sáng bóng; dùng hết; chỉ
+广播	/guǎngbō/	Phát thanh; đài phát thanh
+广告	/guǎnggào/	Quảng cáo
+逛	/guàng/	Dạo, đi dạo
+规定	/guīdìng/	Quy định; quy tắc
+国籍	/guójí/	Quốc tịch
+国际	/guójì/	Quốc tế; thế giới
+果汁	/guǒzhī/	Nước trái cây
+过程	/guòchéng/	Quá trình
+海洋	/hǎiyáng/	Đại dương
+害羞	/hàixiū/	Ngượng ngùng, xấu hổ
+寒假	/hánjià/	Kỳ nghỉ đông
+寒冷	/hánlěng/	Lạnh giá
+喊	/hǎn/	Hét, gọi to
+汗	/hàn/	Mồ hôi
+航班	/hángbān/	Chuyến bay
+好处	/hǎochù/	Lợi ích
+好好	/hǎohǎo/	Tốt, đàng hoàng; chăm chỉ
+好笑	/hǎoxiào/	Buồn cười, hài hước
+合格	/hégé/	Đạt chuẩn, đủ tiêu chuẩn
+盒子	/hézi/	Hộp
+红包	/hóngbāo/	Bao lì xì
+厚	/hòu/	Dày
+后悔	/hòuhuǐ/	Hối hận
+忽然	/hūrán/	Bỗng nhiên, đột nhiên
+互联网	/hùliánwǎng/	Internet
+护士	/hùshi/	Y tá
+互相	/hùxiāng/	Lẫn nhau, với nhau
+话剧	/huàjù/	Kịch nói
+怀疑	/huáiyí/	Nghi ngờ
+坏处	/huàichù/	Tác hại, nhược điểm
+环保	/huánbǎo/	Bảo vệ môi trường; thân thiện với môi trường
+换乘	/huànchéng/	Đổi xe, chuyển tuyến
+回复	/huífù/	Trả lời
+回信	/huíxìn/	Trả lời thư; thư trả lời
+回忆	/huíyì/	Hồi tưởng
+会员	/huìyuán/	Hội viên, thành viên
+活	/huó/	Sống; sống động; công việc
+活动	/huódòng/	Hoạt động; sự kiện
+活泼	/huópō/	Hoạt bát, vui vẻ
+火	/huǒ/	Lửa; nóng, phổ biến
+货	/huò/	Hàng hóa
+获得	/huòdé/	Nhận được, đạt được
+获奖	/huòjiǎng/	Đoạt giải
+获取	/huòqǔ/	Thu được, lấy được
+基本	/jīběn/	Cơ bản; cơ bản là
+基本上	/jīběnshàng/	Về cơ bản
+基础	/jīchǔ/	Nền tảng, cơ sở
+激动	/jīdòng/	Phấn khích; làm xúc động
+积极	/jījí/	Tích cực
+积累	/jīlěi/	Tích lũy
+及时	/jíshí/	Kịp thời; ngay lập tức
+即使	/jíshǐ/	Dù, ngay cả khi
+既	/jì/	Đã; vừa… vừa…
+寄	/jì/	Gửi
+计划	/jìhuà/	Kế hoạch; lập kế hoạch
+既然	/jìrán/	Đã vậy, vì đã
+技术	/jìshù/	Công nghệ, kỹ thuật
+继续	/jìxù/	Tiếp tục
+记者	/jìzhě/	Nhà báo
+加班	/jiābān/	Làm thêm giờ
+家具	/jiājù/	Đồ nội thất
+加快	/jiākuài/	Tăng tốc, đẩy nhanh
+加强	/jiāqiáng/	Tăng cường
+加入	/jiārù/	Tham gia, gia nhập
+加上	/jiāshàng/	Thêm vào, cộng với
+家庭	/jiātíng/	Gia đình
+家乡	/jiāxiāng/	Quê hương
+加油	/jiāyóu/	Đổ xăng; cố lên
+加油站	/jiāyóuzhàn/	Trạm xăng
+家长	/jiāzhǎng/	Phụ huynh, chủ gia đình
+假	/jiǎ/	Giả, giả mạo
+价格	/jiàgé/	Giá cả
+价钱	/jiàqián/	Giá tiền
+假日	/jiàrì/	Ngày nghỉ, kỳ nghỉ
+减	/jiǎn/	Giảm, trừ
+减轻	/jiǎnqīng/	Giảm nhẹ
+减少	/jiǎnshǎo/	Giảm bớt
+健身	/jiànshēn/	Tập gym, rèn luyện sức khỏe
+健身房	/jiànshēnfáng/	Phòng gym
+建议	/jiànyì/	Đề nghị; lời khuyên
+江	/jiāng/	Sông
+将	/jiāng/	(dùng với tân ngữ); sẽ
+将来	/jiānglái/	Tương lai
+将要	/jiāngyào/	Sắp, sẽ
+奖	/jiǎng/	Giải thưởng; trao giải
+奖金	/jiǎngjīn/	Tiền thưởng
+奖学金	/jiǎngxuéjīn/	Học bổng
+降	/jiàng/	Giảm, hạ xuống
+降低	/jiàngdī/	Giảm thấp
+降价	/jiàngjià/	Giảm giá
+降落	/jiàngluò/	Hạ cánh
+降温	/jiàngwēn/	Giảm nhiệt độ
+交	/jiāo/	Nộp, giao; bạn bè
+骄傲	/jiāo’ào/	Tự hào; kiêu ngạo
+交警	/jiāojǐng/	Cảnh sát giao thông
+交流	/jiāoliú/	Giao lưu, trao đổi
+郊区	/jiāoqū/	Ngoại ô
+交通	/jiāotōng/	Giao thông
+教练	/jiàoliàn/	Huấn luyện viên
+教师	/jiàoshī/	Giáo viên
+教授	/jiàoshòu/	Giáo sư
+教学	/jiàoxué/	Giảng dạy
+教育	/jiàoyù/	Giáo dục; giáo dục
+叫作	/jiàozuò/	Được gọi là
+街道	/jiēdào/	Đường phố
+接受	/jiēshòu/	Chấp nhận
+接着	/jiēzhe/	Tiếp theo; tiếp tục
+结果	/jiéguǒ/	Kết quả; kết quả là
+节假日	/jiéjiàrì/	Ngày lễ, kỳ nghỉ
+节约	/jiéyuē/	Tiết kiệm
+结账	/jiézhàng/	Thanh toán hóa đơn
+解释	/jiěshì/	Giải thích
+今后	/jīnhòu/	Từ nay về sau
+仅	/jǐn/	Chỉ, duy nhất
+尽管	/jǐnguǎn/	Cứ việc; dù
+仅仅	/jǐnjǐn/	Chỉ, duy nhất
+紧张	/jǐnzhāng/	Căng thẳng, hồi hộp
+进入	/jìnrù/	Vào, gia nhập
+进行	/jìnxíng/	Tiến hành
+禁止	/jìnzhǐ/	Cấm
+精彩	/jīngcǎi/	Xuất sắc, hấp dẫn
+经济	/jīngjì/	Kinh tế; tiết kiệm
+京剧	/jīngjù/	Kinh kịch (opera Bắc Kinh)
+经历	/jīnglì/	Trải qua; kinh nghiệm
+经验	/jīngyàn/	Kinh nghiệm
+警察	/jǐngchá/	Cảnh sát
+景点	/jǐngdiǎn/	Điểm du lịch, thắng cảnh
+景区	/jǐngqū/	Khu du lịch, khu thắng cảnh
+景色	/jǐngsè/	Phong cảnh
+竟然	/jìngrán/	Không ngờ, hóa ra
+竞争	/jìngzhēng/	Cạnh tranh
+镜子	/jìngzi/	Gương
+究竟	/jiūjìng/	Rốt cuộc, cuối cùng là
+就是	/jiùshì/	Chính là, dù là
+举	/jǔ/	Giơ lên, tổ chức, đưa ví dụ
+举办	/jǔbàn/	Tổ chức
+举例	/jǔlì/	Đưa ví dụ
+举行	/jǔxíng/	Tổ chức, tiến hành
+聚	/jù/	Tập hợp, tụ họp
+聚餐	/jùcān/	Ăn chung, liên hoan
+聚会	/jùhuì/	Tụ họp; buổi tụ họp
+拒绝	/jùjué/	Từ chối
+距离	/jùlí/	Khoảng cách; cách
+剧院	/jùyuàn/	Nhà hát
+开玩笑	/kāi wánxiào/	Đùa, trêu đùa
+看法	/kànfǎ/	Quan điểm, ý kiến
+烤	/kǎo/	Nướng, nướng
+考虑	/kǎolǜ/	Xem xét, suy nghĩ
+考生	/kǎoshēng/	Thí sinh
+棵	/kē/	Cây (dùng cho cây cối)
+科技	/kējì/	Khoa học kỹ thuật
+科学	/kēxué/	Khoa học; khoa học
+咳	/ké/	Ho
+咳嗽	/késou/	Ho
+可惜	/kěxī/	Tiếc, đáng tiếc
+克	/kè/	Gam
+课程	/kèchéng/	Khóa học, chương trình học
+客气	/kèqi/	Lịch sự; khách khí
+课堂	/kètáng/	Lớp học
+客厅	/kètīng/	Phòng khách
+肯定	/kěndìng/	Xác nhận; chắc chắn; chắc chắn
+空	/kōng/	Trống, rỗng
+空气	/kōngqì/	Không khí
+恐怕	/kǒngpà/	E rằng, có lẽ
+空	/kòng/	Để trống; rảnh; thời gian rảnh
+口语	/kǒuyǔ/	Tiếng nói, khẩu ngữ
+苦	/kǔ/	Đắng
+快餐	/kuàicān/	Đồ ăn nhanh
+快递	/kuàidì/	Chuyển phát nhanh
+快速	/kuàisù/	Nhanh chóng
+困	/kùn/	Buồn ngủ
+困难	/kùnnan/	Khó khăn; khó khăn
+拉	/lā/	Kéo, lôi
+垃圾	/lājī/	Rác thải
+辣	/là/	Cay
+来不及	/láibují/	Không kịp
+来得及	/láidejí/	Còn kịp
+懒	/lǎn/	Lười biếng
+浪费	/làngfèi/	Lãng phí
+浪漫	/làngmàn/	Lãng mạn
+老虎	/lǎohǔ/	Hổ
+老家	/lǎojiā/	Quê hương cũ
+老年	/lǎonián/	Người cao tuổi
+老是	/lǎoshì/	Luôn luôn
+冷静	/lěngjìng/	Bình tĩnh
+理发	/lǐfà/	Cắt tóc
+理解	/lǐjiě/	Hiểu
+礼貌	/lǐmào/	Lịch sự; có lễ phép
+理想	/lǐxiǎng/	Lý tưởng; lý tưởng
+厉害	/lìhai/	Giỏi, lợi hại, dữ dội
+力气	/lìqi/	Sức lực
+例如	/lìrú/	Ví dụ như
+例子	/lìzi/	Ví dụ
+俩	/liǎ/	Hai (người)
+连	/lián/	Kể cả, ngay cả
+联系	/liánxì/	Liên lạc
+凉	/liáng/	Mát, lạnh
+量	/liáng/	Đo, cân
+两	/liǎng/	Hai (dùng cho xe, động vật…)
+亮	/liàng/	Sáng; sáng lên
+列	/liè/	Sắp xếp; hàng
+零下	/líng xià/	Dưới không độ
+零花钱	/línghuāqián/	Tiền tiêu vặt
+零钱	/língqián/	Tiền lẻ
+零食	/língshí/	Đồ ăn vặt
+另	/lìng/	Khác; riêng
+另外	/lìngwài/	Ngoài ra; thêm
+留	/liú/	Ở lại, giữ lại
+流	/liú/	Chảy
+流利	/liúlì/	Lưu loát
+留下	/liúxia/	Để lại
+流行	/liúxíng/	Phổ biến, thịnh hành
+路过	/lùguò/	Đi ngang qua
+旅馆	/lǚguǎn/	Khách sạn
+旅客	/lǚkè/	Hành khách, du khách
+旅行	/lǚxíng/	Du lịch
+律师	/lǜshī/	Luật sư
+乱	/luàn/	Lộn xộn; bừa bãi
+落	/luò/	Rơi, hạ xuống
+麻烦	/máfan/	Phiền phức; làm phiền; rắc rối
+馒头	/mántou/	Bánh bao hấp
+满	/mǎn/	Đầy; làm đầy
+毛巾	/máojīn/	Khăn mặt
+毛衣	/máoyī/	Áo len
+帽子	/màozi/	Mũ
+美	/měi/	Đẹp
+美好	/měihǎo/	Tốt đẹp, tươi đẹp
+美景	/měijǐng/	Cảnh đẹp
+美丽	/měilì/	Xinh đẹp
+美食	/měishí/	Món ngon, ẩm thực
+梦	/mèng/	Giấc mơ; mơ
+梦想	/mèngxiǎng/	Ước mơ; mơ ước
+密码	/mìmǎ/	Mật khẩu
+免费	/miǎnfèi/	Miễn phí
+面对	/miànduì/	Đối mặt
+面试	/miànshì/	Phỏng vấn; buổi phỏng vấn
+秒	/miǎo/	Giây
+民族	/mínzú/	Dân tộc
+末	/mò/	Cuối, cuối cùng
+母女	/mǔnǚ/	Mẹ và con gái
+母亲	/mǔqīn/	Mẹ
+母子	/mǔzǐ/	Mẹ và con trai
+目标	/mùbiāo/	Mục tiêu
+目的	/mùdì/	Mục đích
+目的地	/mùdìdì/	Điểm đến
+目前	/mùqián/	Hiện tại
+耐心	/nàixīn/	Kiên nhẫn; sự kiên nhẫn
+南部	/nánbù/	Phía Nam
+难道	/nándào/	Chẳng lẽ, lẽ nào
+男士	/nánshì/	Nam giới, quý ông
+难受	/nánshòu/	Khó chịu, đau đớn
+难忘	/nánwàng/	Khó quên
+男性	/nánxìng/	Nam giới
+内	/nèi/	Bên trong
+内容	/nèiróng/	Nội dung
+内心	/nèixīn/	Tâm hồn, nội tâm
+能否	/néng fǒu/	Có thể hay không
+能够	/nénggòu/	Có thể
+能力	/nénglì/	Khả năng
+嗯	/ǹg/	Ừ, ừm
+年底	/niándǐ/	Cuối năm
+年龄	/niánlíng/	Tuổi
+农村	/nóngcūn/	Nông thôn
+弄	/nòng/	Làm, sửa
+女性	/nǚxìng/	Nữ giới
+暖和	/nuǎnhuo/	Ấm áp; sưởi ấm
+偶尔	/ǒu’ěr/	Thỉnh thoảng; thỉnh thoảng
+拍	/pāi/	Vỗ, chụp ảnh; nhịp
+排	/pái/	Xếp hàng; hàng; hàng
+牌	/pái/	Bảng, nhãn hiệu
+排队	/páiduì/	Xếp hàng
+排球	/páiqiú/	Bóng chuyền
+牌子	/páizi/	Nhãn hiệu, biển
+判断	/pànduàn/	Phán đoán
+陪	/péi/	Đi cùng
+批评	/pīpíng/	Phê bình
+皮肤	/pífū/	Da
+脾气	/píqi/	Tính tình
+皮鞋	/píxié/	Giày da
+篇	/piān/	Bài (bài viết)
+片	/piàn/	Miếng, mảnh; mảnh
+乒乓球	/pīngpāngqiú/	Bóng bàn
+平常	/píngcháng/	Bình thường; thường ngày
+破	/pò/	Hỏng, vỡ; làm vỡ
+葡萄	/pútao/	Nho
+葡萄酒	/pútaojiǔ/	Rượu vang
+普遍	/pǔbiàn/	Phổ biến
+普通	/pǔtōng/	Bình thường, phổ thông
+普通话	/pǔtōnghuà/	Tiếng phổ thông (Quan thoại)
+期	/qī/	Kỳ, giai đoạn
+期末	/qīmò/	Cuối kỳ
+期中	/qīzhōng/	Giữa kỳ
+其次	/qícì/	Tiếp theo, thứ hai
+其中	/qízhōng/	Trong đó
+起到	/qǐdào/	Phát huy tác dụng
+气	/qì/	Khí, hơi; tức giận
+气候	/qìhòu/	Khí hậu
+汽水	/qìshuǐ/	Nước ngọt có ga
+气温	/qìwēn/	Nhiệt độ không khí
+千克	/qiānkè/	Kilôgam
+千万	/qiānwàn/	Nhất định, muôn vàn
+签证	/qiānzhèng/	Thị thực; cấp thị thực
+前方	/qiánfāng/	Phía trước
+前后	/qiánhòu/	Trước sau, khoảng
+强	/qiáng/	Mạnh
+敲	/qiāo/	Gõ, đập
+桥	/qiáo/	Cầu
+巧	/qiǎo/	Khéo, may mắn
+巧克力	/qiǎokèlì/	Sô cô la
+亲戚	/qīnqi/	Họ hàng
+琴	/qín/	Đàn (nhạc cụ)
+轻	/qīng/	Nhẹ, nhẹ nhàng
+青年	/qīngnián/	Thanh niên
+轻松	/qīngsōng/	Thư giãn, nhẹ nhàng
+情况	/qíngkuàng/	Tình hình
+庆祝	/qìngzhù/	Ăn mừng
+球队	/qiúduì/	Đội bóng
+球迷	/qiúmí/	Fan bóng đá
+区	/qū/	Khu vực
+区别	/qūbié/	Sự khác biệt; phân biệt
+取	/qǔ/	Lấy, nhận
+取得	/qǔdé/	Đạt được
+取消	/qǔxiāo/	Hủy bỏ
+全	/quán/	Toàn bộ; hoàn toàn
+全部	/quánbù/	Toàn bộ
+全都	/quándōu/	Tất cả đều
+全球	/quánqiú/	Toàn cầu
+全身	/quánshēn/	Toàn thân
+缺	/quē/	Thiếu, khuyết
+缺点	/quēdiǎn/	Nhược điểm, khuyết điểm
+缺少	/quēshǎo/	Thiếu, khan hiếm
+却	/què/	Nhưng, thế mà
+确实	/quèshí/	Quả thật, đúng là
+然而	/rán’ér/	Tuy nhiên, nhưng
+热闹	/rènao/	Nhộn nhịp, sôi động; làm sôi động; không khí nhộn nhịp
+人生	/rénshēng/	Cuộc đời, nhân sinh
+人数	/rénshù/	Số lượng người
+人员	/rényuán/	Nhân viên, cán bộ
+任何	/rènhé/	Bất kỳ, bất cứ
+任务	/rènwu/	Nhiệm vụ, công việc
+扔	/rēng/	Ném, vứt
+仍	/réng/	Vẫn, vẫn còn
+仍然	/réngrán/	Vẫn, vẫn còn
+日常	/rìcháng/	Hàng ngày, thường ngày
+日记	/rìjì/	Nhật ký
+日期	/rìqī/	Ngày tháng
+日子	/rìzi/	Ngày tháng, cuộc sống
+入	/rù/	Vào, nhập
+入口	/rùkǒu/	Lối vào
+入学	/rùxué/	Nhập học
+入住	/rùzhù/	Nhận phòng, vào ở
+散步	/sànbù/	Đi dạo
+扫码	/sǎomǎ/	Quét mã
+森林	/sēnlín/	Rừng
+商量	/shāngliang/	Thảo luận, bàn bạc
+商品	/shāngpǐn/	Hàng hóa, sản phẩm
+伤心	/shāngxīn/	Buồn bã, đau lòng
+上门	/shàngmén/	Đến tận nhà
+稍	/shāo/	Hơi, một chút
+稍微	/shāowēi/	Hơi, một chút
+少见	/shǎojiàn/	Hiếm thấy
+少量	/shǎoliàng/	Lượng ít, một ít
+少数	/shǎoshù/	Số ít, thiểu số
+少年	/shàonián/	Thiếu niên
+社会	/shèhuì/	Xã hội
+摄氏度	/shèshìdù/	Độ C
+身	/shēn/	Thân thể; bộ (quần áo)
+深	/shēn/	Sâu
+身份证	/shēnfènzhèng/	Chứng minh thư
+申请	/shēnqǐng/	Nộp đơn, xin
+甚至	/shènzhì/	Thậm chí
+生	/shēng/	Sinh, sản xuất
+生	/shēng/	Sống, chưa chín
+生命	/shēngmìng/	Sự sống, sinh mệnh
+生意	/shēngyi/	Kinh doanh
+省	/shěng/	Tỉnh
+剩	/shèng/	Còn lại
+失败	/shībài/	Thất bại; thất bại
+师傅	/shīfu/	Thầy, sư phụ (dùng tôn xưng thợ)
+失去	/shīqù/	Mất đi
+师生	/shīshēng/	Thầy trò
+失望	/shīwàng/	Thất vọng; thất vọng
+十分	/shífēn/	Rất, vô cùng
+实际	/shíjì/	Thực tế; thực tế
+时间表	/shíjiānbiǎo/	Lịch trình, thời gian biểu
+实际上	/shíjìshàng/	Thực ra, trên thực tế
+食品	/shípǐn/	Thực phẩm
+食堂	/shítáng/	Căng tin, nhà ăn
+食物	/shíwù/	Thức ăn
+实在	/shízài/	Thật thà; quả thật
+十字路口	/shízì lùkǒu/	Ngã tư
+使	/shǐ/	Làm cho, khiến
+使馆	/shǐguǎn/	Đại sứ quán
+使用	/shǐyòng/	Sử dụng
+市场	/shìchǎng/	Chợ, thị trường
+是否	/shìfǒu/	Có phải… không
+适合	/shìhé/	Phù hợp
+世纪	/shìjì/	Thế kỷ
+视频	/shìpín/	Video
+市区	/shìqū/	Khu trung tâm thành phố
+试题	/shìtí/	Đề thi
+适应	/shìyìng/	Thích nghi
+收费	/shōufèi/	Thu phí
+收入	/shōurù/	Thu nhập; thu vào
+收拾	/shōushi/	Dọn dẹp, thu dọn
+收听	/shōutīng/	Nghe (đài)
+首	/shǒu/	Bài (bài hát, bài thơ)
+首都	/shǒudū/	Thủ đô
+首先	/shǒuxiān/	Trước tiên
+受不了	/shòubuliǎo/	Không chịu nổi
+售票员	/shòupiàoyuán/	Nhân viên bán vé
+受伤	/shòushāng/	Bị thương
+输	/shū/	Thua, thất bại
+熟	/shú/shóu/	Chín, quen
+熟悉	/shúxi/	Quen thuộc
+暑假	/shǔjià/	Kỳ nghỉ hè
+数	/shù/	Số, con số
+数量	/shùliàng/	Số lượng
+树林	/shùlín/	Rừng cây
+数字	/shùzì/	Số, chữ số
+帅	/shuài/	Đẹp trai
+顺便	/shùnbiàn/	Nhân tiện, tiện thể
+顺利	/shùnlì/	Suôn sẻ
+顺序	/shùnxù/	Thứ tự
+说法	/shuōfǎ/	Cách nói, quan điểm
+说明	/shuōmíng/	Giải thích; lời giải thích
+说明书	/shuōmíngshū/	Hướng dẫn sử dụng
+硕士	/shuòshì/	Thạc sĩ
+死	/sǐ/	Chết; chết (cực kỳ)
+速度	/sùdù/	Tốc độ
+塑料	/sùliào/	Nhựa
+酸	/suān/	Chua
+酸奶	/suānnǎi/	Sữa chua
+算	/suàn/	Tính toán; coi như
+随便	/suíbiàn/	Tùy ý; tùy tiện
+随着	/suízhe/	Theo, cùng với
+孙女	/sūnnǚ/	Cháu gái (con trai)
+孙子	/sūnzi/	Cháu trai (con trai)
+所有	/suǒyǒu/	Tất cả
+台	/tái/	Cái (máy, xe…); sân khấu
+抬	/tái/	Nhấc, nâng
+抬头	/táitóu/	Ngẩng đầu
+态度	/tàidù/	Thái độ
+弹	/tán/	Đánh (đàn), bật
+谈	/tán/	Nói chuyện, bàn
+汤	/tāng/	Canh, súp
+躺	/tǎng/	Nằm
+趟	/tàng/	Chuyến (đi)
+讨论	/tǎolùn/	Thảo luận
+讨厌	/tǎoyàn/	Ghét, khó chịu; ghét
+特点	/tèdiǎn/	Đặc điểm
+提	/tí/	Mang, nhắc đến
+提出	/tíchū/	Đề xuất
+提到	/tídào/	Đề cập
+提供	/tígōng/	Cung cấp
+提前	/tíqián/	Làm trước, sớm hơn
+提醒	/tíxǐng/	Nhắc nhở
+体检	/tǐjiǎn/	Khám sức khỏe
+体温	/tǐwēn/	Nhiệt độ cơ thể
+体重	/tǐzhòng/	Cân nặng
+填写	/tiánxiě/	Điền vào
+条件	/tiáojiàn/	Điều kiện
+听力	/tīnglì/	Kỹ năng nghe
+听众	/tīngzhòng/	Thính giả
+停	/tíng/	Dừng
+停车	/tíngchē/	Đỗ xe
+停车场	/tíngchēchǎng/	Bãi đỗ xe
+停止	/tíngzhǐ/	Dừng lại
+通	/tōng/	Thông, mở; thông suốt
+通过	/tōngguò/	Thông qua; qua
+通知	/tōngzhī/	Thông báo; thông báo
+童年	/tóngnián/	Thời thơ ấu
+同时	/tóngshí/	Đồng thời; cùng lúc
+同样	/tóngyàng/	Giống nhau
+桶	/tǒng/	Thùng, xô
+痛	/tòng/	Đau
+头痛	/tóutòng/	Đau đầu
+图	/tú/	Hình, sơ đồ
+图片	/túpiàn/	Hình ảnh
+土	/tǔ/	Đất
+推	/tuī/	Đẩy
+推迟	/tuīchí/	Hoãn lại
+推出	/tuīchū/	Ra mắt, giới thiệu
+脱	/tuō/	Cởi
+袜子	/wàzi/	Vớ, tất
+外出	/wàichū/	Ra ngoài
+外套	/wàitào/	Áo khoác
+完全	/wánquán/	Hoàn toàn; hoàn toàn
+晚安	/wǎn’ān/	Chúc ngủ ngon
+晚餐	/wǎncān/	Bữa tối
+网购	/wǎnggòu/	Mua sắm online
+往往	/wǎngwǎng/	Thường thường
+网页	/wǎngyè/	Trang web
+网友	/wǎngyǒu/	Bạn mạng
+网址	/wǎngzhǐ/	Địa chỉ web
+危险	/wēixiǎn/	Nguy hiểm; sự nguy hiểm
+为	/wéi/	Làm, là
+味	/wèi/	Vị, mùi
+味道	/wèidào/	Vị, mùi vị
+卫生	/wèishēng/	Vệ sinh; sạch sẽ
+温度	/wēndù/	Nhiệt độ
+闻	/wén/	Ngửi
+文件	/wénjiàn/	Tài liệu, file
+文章	/wénzhāng/	Bài viết
+文字	/wénzì/	Chữ viết
+污染	/wūrǎn/	Ô nhiễm
+无	/wú/	Không có
+无法	/wúfǎ/	Không thể
+无聊	/wúliáo/	Buồn chán
+无论	/wúlùn/	Dù, bất kể
+午餐	/wǔcān/	Bữa trưa
+误会	/wùhuì/	Hiểu lầm; sự hiểu lầm
+吸	/xī/	Hút, hấp thụ
+西部	/xībù/	Phía Tây
+西红柿	/xīhóngshì/	Cà chua
+吸引	/xīyǐn/	Thu hút
+细	/xì/	Mảnh, chi tiết
+细心	/xìxīn/	Cẩn thận, chu đáo
+下降	/xiàjiàng/	Giảm xuống
+鲜	/xiān/	Tươi
+鲜花	/xiānhuā/	Hoa tươi
+咸	/xián/	Mặn
+现金	/xiànjīn/	Tiền mặt
+羡慕	/xiànmù/	Ghen tị, ngưỡng mộ
+线上	/xiànshàng/	Trực tuyến
+线下	/xiànxià/	Ngoại tuyến
+现有	/xiànyǒu/	Hiện có, đang tồn tại
+香	/xiāng/	Thơm, hương thơm
+相比	/xiāngbǐ/	So sánh với
+相反	/xiāngfǎn/	Ngược lại, trái ngược; ngược lại
+相互	/xiānghù/	Lẫn nhau, với nhau
+相同	/xiāngtóng/	Giống nhau, đồng nhất
+详细	/xiángxì/	Chi tiết, tỉ mỉ
+响	/xiǎng/	Kêu, vang; to, lớn
+想法	/xiǎngfǎ/	Ý nghĩ, ý kiến
+项	/xiàng/	Mục, khoản (dùng cho dự án, hạng mục)
+消息	/xiāoxi/	Tin tức, thông tin
+小吃	/xiǎochī/	Đồ ăn vặt, món ăn nhẹ
+小伙子	/xiǎohuǒzi/	Chàng trai trẻ
+小说	/xiǎoshuō/	Tiểu thuyết
+小组	/xiǎozǔ/	Nhóm nhỏ, tổ
+效果	/xiàoguǒ/	Hiệu quả, kết quả
+笑话	/xiàohua/	Câu chuyện cười; đùa
+血	/xiě/	Máu
+心	/xīn/	Tim, lòng
+辛苦	/xīnkǔ/	Vất vả, gian khổ; vất vả
+心情	/xīnqíng/	Tâm trạng
+信号	/xìnhào/	Tín hiệu
+信息	/xìnxī/	Thông tin
+信心	/xìnxīn/	Sự tự tin
+兴奋	/xīngfèn/	Phấn khích; làm phấn khích
+星星	/xīngxing/	Ngôi sao
+醒	/xǐng/	Tỉnh, thức dậy
+性	/xìng/	Tính chất, tính (dùng sau từ)
+性别	/xìngbié/	Giới tính
+幸福	/xìngfú/	Hạnh phúc; hạnh phúc
+性格	/xìnggé/	Tính cách
+兄弟	/xiōngdì/	Anh em trai
+熊	/xióng/	Gấu
+修	/xiū/	Sửa chữa
+修理	/xiūlǐ/	Sửa chữa
+许多	/xǔduō/	Nhiều
+学费	/xuéfèi/	Học phí
+学院	/xuéyuàn/	Học viện, khoa
+压	/yā/	Ép, đè
+压力	/yālì/	Áp lực
+牙膏	/yágāo/	Kem đánh răng
+亚洲	/Yàzhōu/	Châu Á
+烟	/yān/	Thuốc lá, khói
+盐	/yán/	Muối
+严格	/yángé/	Nghiêm khắc; nghiêm ngặt
+研究	/yánjiū/	Nghiên cứu
+研究生	/yánjiūshēng/	Nghiên cứu sinh, thạc sĩ/sau đại học
+严重	/yánzhòng/	Nghiêm trọng
+演	/yǎn/	Diễn, biểu diễn
+演唱	/yǎnchàng/	Hát, biểu diễn ca hát
+演出	/yǎnchū/	Biểu diễn
+眼镜	/yǎnjìng/	Kính mắt
+眼前	/yǎnqián/	Trước mắt, hiện tại
+演员	/yǎnyuán/	Diễn viên
+阳光	/yángguāng/	Ánh nắng
+养成	/yǎngchéng/	Hình thành, rèn luyện
+样子	/yàngzi/	Hình dáng, vẻ ngoài
+邀请	/yāoqǐng/	Mời
+要是	/yàoshi/	Nếu, giả sử
+钥匙	/yàoshi/	Chìa khóa
+也许	/yěxǔ/	Có lẽ, có thể
+夜	/yè/	Đêm; (đơn vị đêm)
+夜晚	/yèwǎn/	Ban đêm
+叶子	/yèzi/	Lá cây
+一切	/yíqiè/	Tất cả, mọi thứ
+已	/yǐ/	Đã
+以内	/yǐnèi/	Trong vòng, trong
+意见	/yìjiàn/	Ý kiến
+一生	/yìshēng/	Cả đời
+艺术	/yìshù/	Nghệ thuật
+因此	/yīncǐ/	Vì vậy, do đó
+引起	/yǐnqǐ/	Gây ra, dẫn đến
+印象	/yìnxiàng/	Ấn tượng
+赢	/yíng/	Thắng
+赢得	/yíngdé/	Giành được, thắng
+应聘	/yìngpìn/	Ứng tuyển
+勇敢	/yǒnggǎn/	Dũng cảm
+永远	/yǒngyuǎn/	Mãi mãi; vĩnh cửu
+用来	/yònglái/	Dùng để
+用于	/yòngyú/	Dùng cho
+优点	/yōudiǎn/	Ưu điểm
+幽默	/yōumò/	Hài hước
+优秀	/yōuxiù/	Xuất sắc
+由	/yóu/	Do, bởi
+油	/yóu/	Dầu, mỡ
+尤其	/yóuqí/	Đặc biệt, nhất là
+游玩	/yóuwán/	Chơi đùa, du ngoạn
+由于	/yóuyú/	Do, vì
+友好	/yǒuhǎo/	Thân thiện
+友情	/yǒuqíng/	Tình bạn
+有趣	/yǒuqù/	Thú vị, hay
+有效	/yǒuxiào/	Có hiệu quả; hiệu quả
+友谊	/yǒuyì/	Tình hữu nghị
+有着	/yǒuzhe/	Có, sở hữu
+愉快	/yúkuài/	Vui vẻ, dễ chịu
+于是	/yúshì/	Vì vậy, rồi thì
+与	/yǔ/	Với, và
+语法	/yǔfǎ/	Ngữ pháp
+预习	/yùxí/	Ôn bài trước, chuẩn bị trước
+原来	/yuánlái/	Ban đầu; nguyên bản; hóa ra
+原谅	/yuánliàng/	Tha thứ
+原因	/yuányīn/	Nguyên nhân
+远离	/yuǎnlí/	Xa rời, tránh xa
+院长	/yuànzhǎng/	Viện trưởng, hiệu trưởng
+院子	/yuànzi/	Sân, sân nhà
+约	/yuē/	Hẹn; khoảng
+约会	/yuēhuì/	Hẹn hò; buổi hẹn
+月饼	/yuèbǐng/	Bánh trung thu
+阅读	/yuèdú/	Đọc
+月份	/yuèfèn/	Tháng
+云	/yún/	Mây
+允许	/yǔnxǔ/	Cho phép
+杂志	/zázhì/	Tạp chí
+再次	/zàicì/	Lần nữa, một lần nữa
+再说	/zàishuō/	Nói sau; hơn nữa
+暂时	/zànshí/	Tạm thời
+暂停	/zàntíng/	Tạm dừng
+早餐	/zǎocān/	Bữa sáng
+早晨	/zǎochen/	Buổi sáng
+责任	/zérèn/	Trách nhiệm
+增加	/zēngjiā/	Tăng thêm
+增长	/zēngzhǎng/	Tăng trưởng
+招聘	/zhāopìn/	Tuyển dụng
+着	/zháo/	Chạm, dính, cháy
+着火	/zháohuǒ/	Cháy
+者	/zhě/	Người (dùng chỉ người làm gì)
+真正	/zhēnzhèng/	Thật sự, chân chính
+整	/zhěng/	Toàn bộ, nguyên
+整个	/zhěnggè/	Toàn bộ, cả
+整理	/zhěnglǐ/	Sắp xếp, dọn dẹp
+证	/zhèng/	Giấy chứng nhận, bằng chứng
+正常	/zhèngcháng/	Bình thường
+正好	/zhènghǎo/	Vừa đúng, đúng lúc
+证件	/zhèngjiàn/	Giấy tờ tùy thân
+证明	/zhèngmíng/	Chứng minh; bằng chứng
+正确	/zhèngquè/	Đúng, chính xác
+正式	/zhèngshì/	Chính thức
+之	/zhī/	(từ cổ, dùng nối)
+支持	/zhīchí/	Ủng hộ
+支付	/zhīfù/	Thanh toán
+之后	/zhīhòu/	Sau đó
+之间	/zhījiān/	Giữa
+之前	/zhīqián/	Trước đó
+知识	/zhīshi/	Kiến thức
+之中	/zhīzhōng/	Trong đó, giữa
+值	/zhí/	Đáng giá; có giá trị
+值得	/zhídé/	Đáng, xứng đáng
+直接	/zhíjiē/	Trực tiếp
+植物	/zhíwù/	Cây cối, thực vật
+职业	/zhíyè/	Nghề nghiệp
+指	/zhǐ/	Chỉ, trỏ
+指出	/zhǐchū/	Chỉ ra
+只好	/zhǐhǎo/	Đành phải, không còn cách nào khác
+纸巾	/zhǐjīn/	Khăn giấy
+质量	/zhìliàng/	Chất lượng
+至少	/zhìshǎo/	Ít nhất
+中餐	/zhōngcān/	Bữa ăn Trung Quốc
+中年	/zhōngnián/	Trung niên
+种	/zhòng/	Trồng
+重	/zhòng/	Trọng lượng; nặng, quan trọng
+重点	/zhòngdiǎn/	Điểm trọng tâm; chủ yếu
+重视	/zhòngshì/	Coi trọng, chú trọng
+周围	/zhōuwéi/	Xung quanh
+主意	/zhǔyi/	Ý kiến, kế hoạch
+祝	/zhù/	Chúc
+祝贺	/zhùhè/	Chúc mừng
+著名	/zhùmíng/	Nổi tiếng
+专门	/zhuānmén/	Chuyên môn, đặc biệt; chuyên
+专业	/zhuānyè/	Chuyên ngành; chuyên nghiệp
+转	/zhuǎn/	Chuyển, xoay
+转发	/zhuǎnfā/	Chuyển tiếp, forward
+转机	/zhuǎnjī/	Chuyển máy bay
+赚	/zhuàn/	Kiếm (tiền)
+装	/zhuāng/	Đóng gói, lắp, giả vờ
+准	/zhǔn/	Chính xác; chắc chắn
+准确	/zhǔnquè/	Chính xác
+准时	/zhǔnshí/	Đúng giờ
+资料	/zīliào/	Tài liệu, dữ liệu
+仔细	/zǐxì/	Cẩn thận, kỹ lưỡng
+自	/zì/	Từ, tự
+自然	/zìrán/	Thiên nhiên; tự nhiên; tự nhiên
+自习	/zìxí/	Tự học
+自信	/zìxìn/	Tự tin; sự tự tin; tự tin
+自学	/zìxué/	Tự học
+总结	/zǒngjié/	Tóm tắt; bản tóm tắt
+租	/zū/	Thuê
+组	/zǔ/	Nhóm; tổ chức; nhóm
+最终	/zuìzhōng/	Cuối cùng, tối hậu
+尊重	/zūnzhòng/	Tôn trọng; được tôn trọng
+左右	/zuǒyòu/	Khoảng; trái phải; khống chế
+座	/zuò/	Ghế, chỗ ngồi; (đơn vị ghế)
+做法	/zuòfǎ/	Cách làm
+作家	/zuòjiā/	Nhà văn
+做梦	/zuòmèng/	Mơ, nằm mơ
+作品	/zuòpǐn/	Tác phẩm
+作为	/zuòwéi/	Làm, coi như; với tư cách
+座位	/zuòwèi/	Chỗ ngồi
+作文	/zuòwén/	Bài văn; viết văn
+作用	/zuòyòng/	Tác dụng; có tác dụng
+作者	/zuòzhě/	Tác giả
