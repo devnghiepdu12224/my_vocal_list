@@ -8,10 +8,10 @@
 8	百	bǎi	một trăm
 9	班	bān	lớp
 10	半	bàn	một nửa
-11	半年	bàn	nửa nă
+11	半年	bàn	nửa năm
 12	半天	bàn	nửa ngày
 13	帮	bāng	giúp đỡ
-14	帮忙	bāng//máng	giúp đỡ
+14	帮忙	bāngmáng	giúp đỡ
 15	包	bāo	bao
 16	包子	bāozi	bánh bao
 17	杯	bēi	cốc, ly
@@ -41,10 +41,10 @@
 41	唱歌	chànggē	hát, ca hát
 42	车	chē	xe
 43	车票	chēpiào	vé xe
-44	车上	chē	trên xe
+44	车上	chēchan	trên xe
 45	车站	chēzhàn	bến xe
 46	吃	chī	ăn
-47	吃饭	chī//fàn	ăn cơm
+47	吃饭	chīfàn	ăn cơm
 48	出	chū	ra, xuất
 49	出来	chūlái	xuất hiện, đi ra
 50	出去	chūqù	ra, ra ngoài
