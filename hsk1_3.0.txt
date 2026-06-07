@@ -441,7 +441,7 @@
 441	有	yǒu	có
 442	有的	yǒude	có
 443	有名	yǒu//míng	nổi tiếng
-444	有时候	/有时	｜ có lúc
+444	有时候 youshihou	 có lúc
 445	有些	yǒu（yì）xiē	có một tí
 446	有用	yǒuyòng	có ích, có tác dụng
 447	右	yòu	bên phải
