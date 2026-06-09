@@ -1,0 +1,30 @@
+招聘	zhāopìn	tuyển dụng
+面试	miànshì	phỏng vấn
+简历	jiǎnlì	sơ yếu lý lịch/CV
+岗位	gǎngwèi	vị trí công việc
+职位	zhíwèi	chức vụ/vị trí
+薪资	xīnzī	lương
+工资	gōngzī	tiền lương
+奖金	jiǎngjīn	tiền thưởng
+福利	fúlì	phúc lợi
+保险	bǎoxiǎn	bảo hiểm
+社保	shèbǎo	bảo hiểm xã hội
+劳动合同	láodòng hétóng	hợp đồng lao động
+试用期	shìyòngqī	thời gian thử việc
+转正	zhuǎnzhèng	chuyển chính thức
+离职	lízhí	nghỉ việc
+辞职	cízhí	từ chức/xin nghỉ
+解雇	jiěgù	sa thải
+培训	péixùn	đào tạo
+考核	kǎohé	đánh giá/kiểm tra
+绩效	jìxiào	hiệu suất/KPI
+晋升	jìnshēng	thăng chức
+调岗	diàogǎng	chuyển vị trí
+考勤	kǎoqín	chấm công
+打卡	dǎkǎ	quẹt thẻ/chấm công
+请假条	qǐngjiàtiáo	đơn xin nghỉ
+病假	bìngjià	nghỉ ốm
+事假	shìjià	nghỉ việc riêng
+年假	niánjià	nghỉ phép năm
+迟到	chídào	đi muộn
+旷工	kuànggōng	nghỉ không phép

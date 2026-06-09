@@ -1,0 +1,40 @@
+工业区	gōngyèqū	khu công nghiệp
+工厂	gōngchǎng	nhà máy
+车间	chējiān	xưởng sản xuất
+生产线	shēngchǎnxiàn	dây chuyền sản xuất
+流水线	liúshuǐxiàn	dây chuyền lắp ráp
+仓库	cāngkù	kho
+宿舍	sùshè	ký túc xá
+食堂	shítáng	nhà ăn
+保安室	bǎo'ān shì	phòng bảo vệ
+门卫	ménwèi	bảo vệ cổng
+厂长	chǎngzhǎng	giám đốc nhà máy
+班长	bānzhǎng	tổ trưởng
+组长	zǔzhǎng	trưởng nhóm
+技术员	jìshùyuán	kỹ thuật viên
+操作员	cāozuòyuán	nhân viên vận hành
+工人	gōngrén	công nhân
+设备	shèbèi	thiết bị
+机器	jīqì	máy móc
+模具	mújù	khuôn mẫu
+零件	língjiàn	linh kiện/phụ tùng
+原材料	yuáncáiliào	nguyên vật liệu
+成品	chéngpǐn	thành phẩm
+半成品	bànchéngpǐn	bán thành phẩm
+不良品	bùliángpǐn	hàng lỗi
+合格品	hégépǐn	hàng đạt chuẩn
+报废	bàofèi	báo phế
+返工	fǎngōng	làm lại/sửa lại
+停机	tíngjī	dừng máy
+开机	kāijī	mở máy/khởi động máy
+维修	wéixiū	sửa chữa/bảo trì
+保养	bǎoyǎng	bảo dưỡng
+产量	chǎnliàng	sản lượng
+效率	xiàolǜ	hiệu suất
+交货期	jiāohuòqī	thời hạn giao hàng
+订单	dìngdān	đơn hàng
+排班	páibān	sắp ca
+夜班	yèbān	ca đêm
+白班	báibān	ca ngày
+轮班	lúnbān	luân ca
+加班费	jiābānfèi	tiền tăng ca

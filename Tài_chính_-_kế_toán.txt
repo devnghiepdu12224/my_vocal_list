@@ -1,0 +1,30 @@
+财务	cáiwù	tài vụ/tài chính
+会计	kuàijì	kế toán
+出纳	chūnà	thủ quỹ
+账单	zhàngdān	hóa đơn/bảng kê
+账目	zhàngmù	sổ sách/tài khoản
+账户	zhànghù	tài khoản
+银行	yínháng	ngân hàng
+转账	zhuǎnzhàng	chuyển khoản
+现金	xiànjīn	tiền mặt
+税务	shuìwù	thuế vụ
+增值税	zēngzhíshuì	thuế giá trị gia tăng
+所得税	suǒdéshuì	thuế thu nhập
+报销	bàoxiāo	thanh toán/hoàn chi phí
+费用	fèiyòng	chi phí
+支出	zhīchū	chi ra/khoản chi
+收入	shōurù	thu nhập/doanh thu
+欠款	qiànkuǎn	tiền nợ
+应收款	yìngshōukuǎn	khoản phải thu
+应付款	yìngfùkuǎn	khoản phải trả
+资产	zīchǎn	tài sản
+负债	fùzhài	nợ phải trả
+报表	bàobiǎo	báo biểu/báo cáo tài chính
+利润表	lìrùnbiǎo	báo cáo lợi nhuận
+资产负债表	zīchǎn fùzhài biǎo	bảng cân đối kế toán
+现金流	xiànjīnliú	dòng tiền
+审计	shěnjì	kiểm toán
+凭证	píngzhèng	chứng từ
+收据	shōujù	biên lai
+汇率	huìlǜ	tỷ giá
+人民币	rénmínbì	nhân dân tệ

@@ -1,0 +1,35 @@
+网站	wǎngzhàn	website/trang web
+网页	wǎngyè	trang web
+服务器	fúwùqì	máy chủ/server
+数据库	shùjùkù	cơ sở dữ liệu
+数据	shùjù	dữ liệu
+字段	zìduàn	trường dữ liệu
+表	biǎo	bảng
+记录	jìlù	bản ghi
+接口	jiēkǒu	giao diện/API
+程序	chéngxù	chương trình
+代码	dàimǎ	mã/code
+开发	kāifā	phát triển
+测试	cèshì	kiểm thử
+部署	bùshǔ	triển khai
+版本	bǎnběn	phiên bản
+更新	gēngxīn	cập nhật
+备份	bèifèn	sao lưu
+恢复	huīfù	khôi phục
+登录	dēnglù	đăng nhập
+注册	zhùcè	đăng ký
+权限	quánxiàn	quyền hạn
+账号	zhànghào	tài khoản
+密码	mìmǎ	mật khẩu
+验证码	yànzhèngmǎ	mã xác minh
+上传	shàngchuán	tải lên
+下载	xiàzǎi	tải xuống
+搜索	sōusuǒ	tìm kiếm
+筛选	shāixuǎn	lọc
+排序	páixù	sắp xếp
+导入	dǎorù	nhập dữ liệu/import
+导出	dǎochū	xuất dữ liệu/export
+错误	cuòwù	lỗi
+日志	rìzhì	nhật ký/log
+缓存	huǎncún	bộ nhớ đệm/cache
+网络	wǎngluò	mạng

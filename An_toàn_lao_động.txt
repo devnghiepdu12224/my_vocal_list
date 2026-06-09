@@ -1,0 +1,30 @@
+安全	ānquán	an toàn
+危险	wēixiǎn	nguy hiểm
+事故	shìgù	sự cố/tai nạn
+隐患	yǐnhuàn	mối nguy tiềm ẩn
+安全帽	ānquánmào	mũ bảo hộ
+口罩	kǒuzhào	khẩu trang
+手套	shǒutào	găng tay
+护目镜	hùmùjìng	kính bảo hộ
+防护服	fánghùfú	quần áo bảo hộ
+耳塞	ěrsāi	nút tai
+安全鞋	ānquánxié	giày bảo hộ
+消防	xiāofáng	phòng cháy chữa cháy
+灭火器	mièhuǒqì	bình chữa cháy
+出口	chūkǒu	lối ra
+紧急出口	jǐnjí chūkǒu	lối thoát hiểm
+禁止吸烟	jìnzhǐ xīyān	cấm hút thuốc
+小心地滑	xiǎoxīn dì huá	cẩn thận trơn trượt
+高温	gāowēn	nhiệt độ cao
+噪音	zàoyīn	tiếng ồn
+化学品	huàxuépǐn	hóa chất
+有毒	yǒudú	có độc
+易燃	yìrán	dễ cháy
+漏电	lòudiàn	rò điện
+停电	tíngdiàn	mất điện
+急救	jíjiù	cấp cứu
+受伤	shòushāng	bị thương
+报警	bàojǐng	báo cảnh sát/báo động
+培训	péixùn	đào tạo
+演练	yǎnliàn	diễn tập
+安全规定	ānquán guīdìng	quy định an toàn

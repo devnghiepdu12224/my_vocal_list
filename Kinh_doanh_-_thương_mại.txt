@@ -1,0 +1,34 @@
+业务	yèwù	nghiệp vụ/kinh doanh
+销售	xiāoshòu	bán hàng
+市场	shìchǎng	thị trường
+营销	yíngxiāo	marketing/tiếp thị
+报价	bàojià	báo giá
+价格	jiàgé	giá cả
+单价	dānjià	đơn giá
+总价	zǒngjià	tổng giá
+折扣	zhékòu	chiết khấu/giảm giá
+利润	lìrùn	lợi nhuận
+成本	chéngběn	chi phí/giá vốn
+预算	yùsuàn	ngân sách/dự toán
+付款	fùkuǎn	thanh toán
+收款	shōukuǎn	thu tiền
+定金	dìngjīn	tiền đặt cọc
+尾款	wěikuǎn	tiền còn lại
+发票	fāpiào	hóa đơn
+合同	hétóng	hợp đồng
+协议	xiéyì	thỏa thuận
+条款	tiáokuǎn	điều khoản
+签约	qiānyuē	ký hợp đồng
+谈判	tánpàn	đàm phán
+合作	hézuò	hợp tác
+供应商	gōngyìngshāng	nhà cung cấp
+经销商	jīngxiāoshāng	nhà phân phối/đại lý
+代理	dàilǐ	đại lý/đại diện
+样品费	yàngpǐnfèi	phí mẫu
+交期	jiāoqī	thời gian giao hàng
+售后服务	shòuhòu fúwù	dịch vụ sau bán hàng
+投诉	tóusù	khiếu nại
+退款	tuìkuǎn	hoàn tiền
+退货	tuìhuò	trả hàng
+换货	huànhuò	đổi hàng
+成交	chéngjiāo	chốt giao dịch

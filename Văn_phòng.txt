@@ -1,0 +1,40 @@
+办公室	bàngōngshì	văn phòng
+公司	gōngsī	công ty
+部门	bùmén	phòng ban
+行政部	xíngzhèng bù	phòng hành chính
+人事部	rénshì bù	phòng nhân sự
+财务部	cáiwù bù	phòng tài vụ
+销售部	xiāoshòu bù	phòng kinh doanh/bán hàng
+采购部	cǎigòu bù	phòng thu mua
+经理	jīnglǐ	giám đốc/quản lý
+主管	zhǔguǎn	chủ quản/trưởng bộ phận
+员工	yuángōng	nhân viên
+同事	tóngshì	đồng nghiệp
+客户	kèhù	khách hàng
+秘书	mìshū	thư ký
+前台	qiántái	lễ tân/quầy tiếp tân
+会议室	huìyìshì	phòng họp
+办公桌	bàngōngzhuō	bàn làm việc
+椅子	yǐzi	ghế
+电脑	diànnǎo	máy tính
+笔记本电脑	bǐjìběn diànnǎo	máy tính xách tay
+打印机	dǎyìnjī	máy in
+复印机	fùyìnjī	máy photocopy
+扫描仪	sǎomiáoyí	máy scan
+文件	wénjiàn	tài liệu/hồ sơ
+资料	zīliào	tài liệu/dữ liệu
+表格	biǎogé	biểu mẫu/bảng biểu
+报告	bàogào	báo cáo
+通知	tōngzhī	thông báo
+邮件	yóujiàn	email/thư điện tử
+电话	diànhuà	điện thoại
+传真	chuánzhēn	fax
+档案	dàng'àn	hồ sơ lưu trữ
+合同	hétóng	hợp đồng
+发票	fāpiào	hóa đơn
+盖章	gàizhāng	đóng dấu
+签字	qiānzì	ký tên
+加班	jiābān	tăng ca
+请假	qǐngjià	xin nghỉ phép
+出差	chūchāi	đi công tác
+考勤	kǎoqín	chấm công

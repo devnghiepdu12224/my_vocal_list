@@ -1,0 +1,35 @@
+生产	shēngchǎn	sản xuất
+制造	zhìzào	chế tạo/sản xuất
+加工	jiāgōng	gia công
+组装	zǔzhuāng	lắp ráp
+包装	bāozhuāng	đóng gói
+检验	jiǎnyàn	kiểm nghiệm/kiểm tra
+检查	jiǎnchá	kiểm tra
+抽检	chōujiǎn	kiểm tra lấy mẫu
+全检	quánjiǎn	kiểm tra toàn bộ
+质检	zhìjiǎn	kiểm tra chất lượng
+品质	pǐnzhì	chất lượng
+质量	zhìliàng	chất lượng
+标准	biāozhǔn	tiêu chuẩn
+规格	guīgé	quy cách/thông số
+尺寸	chǐcùn	kích thước
+重量	zhòngliàng	trọng lượng
+长度	chángdù	chiều dài
+宽度	kuāndù	chiều rộng
+高度	gāodù	chiều cao
+厚度	hòudù	độ dày
+误差	wùchā	sai số
+缺陷	quēxiàn	khuyết điểm/lỗi
+划痕	huáhén	vết xước
+破损	pòsǔn	hư hỏng/bể vỡ
+变形	biànxíng	biến dạng
+污渍	wūzì	vết bẩn
+漏装	lòuzhuāng	lắp thiếu
+错装	cuòzhuāng	lắp sai
+混料	hùnliào	lẫn nguyên liệu
+测试	cèshì	kiểm thử/test
+样品	yàngpǐn	mẫu
+首件	shǒujiàn	sản phẩm đầu tiên/first piece
+记录	jìlù	ghi chép/hồ sơ
+追溯	zhuīsù	truy xuất nguồn gốc
+改进	gǎijìn	cải tiến

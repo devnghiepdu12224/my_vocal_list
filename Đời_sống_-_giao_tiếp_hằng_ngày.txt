@@ -1,0 +1,30 @@
+吃饭	chīfàn	ăn cơm
+喝水	hē shuǐ	uống nước
+休息	xiūxi	nghỉ ngơi
+宿舍	sùshè	ký túc xá
+房间	fángjiān	phòng
+床	chuáng	giường
+钥匙	yàoshi	chìa khóa
+热水	rèshuǐ	nước nóng
+洗澡	xǐzǎo	tắm
+洗衣服	xǐ yīfu	giặt quần áo
+超市	chāoshì	siêu thị
+买东西	mǎi dōngxi	mua đồ
+多少钱	duōshao qián	bao nhiêu tiền?
+太贵了	tài guì le	đắt quá
+便宜一点	piányi yìdiǎn	rẻ hơn một chút
+医院	yīyuàn	bệnh viện
+药店	yàodiàn	hiệu thuốc
+感冒	gǎnmào	cảm cúm
+发烧	fāshāo	sốt
+头疼	tóuténg	đau đầu
+肚子疼	dùzi téng	đau bụng
+公交车	gōngjiāochē	xe buýt
+出租车	chūzūchē	taxi
+地址	dìzhǐ	địa chỉ
+左边	zuǒbian	bên trái
+右边	yòubian	bên phải
+一直走	yìzhí zǒu	đi thẳng
+附近	fùjìn	gần đây
+手机	shǒujī	điện thoại di động
+充电器	chōngdiànqì	sạc điện thoại

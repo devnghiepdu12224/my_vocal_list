@@ -1,0 +1,35 @@
+物流	wùliú	logistics/hậu cần
+运输	yùnshū	vận chuyển
+配送	pèisòng	phân phối/giao hàng
+发货	fāhuò	gửi hàng/xuất hàng
+收货	shōuhuò	nhận hàng
+入库	rùkù	nhập kho
+出库	chūkù	xuất kho
+库存	kùcún	tồn kho
+盘点	pándiǎn	kiểm kê
+货物	huòwù	hàng hóa
+货架	huòjià	kệ hàng
+托盘	tuōpán	pallet
+纸箱	zhǐxiāng	thùng carton
+标签	biāoqiān	tem/nhãn
+条码	tiáomǎ	mã vạch
+叉车	chāchē	xe nâng
+装柜	zhuāngguì	đóng container
+卸货	xièhuò	dỡ hàng
+装货	zhuānghuò	bốc/xếp hàng
+快递	kuàidì	chuyển phát nhanh
+包裹	bāoguǒ	bưu kiện/gói hàng
+单号	dānhào	mã vận đơn/số đơn
+运单	yùndān	vận đơn
+海运	hǎiyùn	vận tải biển
+空运	kōngyùn	vận tải hàng không
+陆运	lùyùn	vận tải đường bộ
+报关	bàoguān	khai báo hải quan
+清关	qīngguān	thông quan
+关税	guānshuì	thuế quan
+提单	tídān	vận đơn đường biển
+交货	jiāohuò	giao hàng
+收据	shōujù	biên nhận
+损耗	sǔnhào	hao hụt
+短缺	duǎnquē	thiếu hụt
+超重	chāozhòng	quá cân
