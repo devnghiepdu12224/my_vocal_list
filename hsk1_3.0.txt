@@ -71,7 +71,7 @@
 71	地方	dìfang	nơi, địa phương
 72	地上	dìshang	trên mặt đất
 73	地图	dìtú	bản đồ
-74	弟弟|弟	dìdi|dì	em trai
+74	弟弟	dìdi|dì	em trai
 75	第	dì（dì-èr）	thứ ... (số thứ tự)
 76	点	diǎn	ít, chút, hơi
 77	电	diàn	điện, pin.
@@ -115,7 +115,7 @@
 115	高	gāo	cao
 116	高兴	gāoxìng	vui vẻ, vui mừng
 117	告诉	gàosù	nói, kể lại
-118	哥哥｜哥	gēge｜gē	anh trai
+118	哥哥	gēge｜gē	anh trai
 119	歌	gē	bài hát
 120	个	gè	cái
 121	给	gěi	cho
@@ -213,7 +213,7 @@
 213	里	lǐ	trong, bên trong
 214	里边	lǐbian	phía trong
 215	两	liǎng	hai
-216	零	líng|0	số 0
+216	零	líng	số 0
 217	六	liù	số 6
 218	楼	lóu	tầng, lầu
 219	楼上	lóu	tầng trên
